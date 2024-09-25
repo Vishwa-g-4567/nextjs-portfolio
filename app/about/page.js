@@ -40,8 +40,8 @@ const About = () => {
               </p>
               <p className="my-4 font-medium">
                 I believe that design is about more than just making things look
-                pretty – it's about solving problems and creating intuitive,
-                enjoyable experiences for users.
+                pretty &minus; it's about solving problems and creating
+                intuitive, enjoyable experiences for users.
               </p>
               <p className="font-medium">
                 Whether I'm working on a website, mobile app, or other digital
