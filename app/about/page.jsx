@@ -31,8 +31,8 @@ const About = () => {
                 Biography
               </h2>
               <p className="font-medium">
-                Hi, I&apos;m <span className="font-bold">Vishwa</span>, a
-                Front-End Developer and Web designer with a passion for creating
+                Hi, I'm <span className="font-bold">Vishwa</span>, a Front-End
+                Developer and Web designer with a passion for creating
                 beautiful, functional, and user-centered digital experiences.
                 With 1 years of self learning experience in the field. I am
                 always looking for new and innovative ways to bring my clients'
